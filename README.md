@@ -1,6 +1,6 @@
 a) Para crear una lista enlazada solo es necesario utilizar el método "add" y agregar el valor a almacenar, deberán ser de tipo entero
 
-Dentro de la lista es posible hacer uso de varios métodos para tener mayor control sobre ella, usa los los siguientes accesos.
+Dentro de la lista es posible hacer uso de varios métodos para tener mayor control sobre ella, usa los los siguientes accesos./n
 
 b) AddFirts: para agregar un elemento al inicio de la lista 
 c) AddMiddle para agregar un elemento por en medio de la lista, se debe de especificar la posición (position) a suplantar dentro de la lista y el 
